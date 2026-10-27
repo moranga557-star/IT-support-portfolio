@@ -1,5 +1,5 @@
 ## Action taken 
-opened the server room tools and check the network devices. The Floor 3 Switch (10.0.3.1) showed an error while the Floor 1 and Floor 2 switches were online. REbooted the Floor 3 switch.
+opened the server room tools and check the network devices. The Floor 3 Switch (10.0.3.1) showed an error while the Floor 1 and Floor 2 switches were online. Rebooted the Floor 3 switch.
 
 ## Result 
 Floor 3 users got back online, including the conference.
